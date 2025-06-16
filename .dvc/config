@@ -1,4 +1,6 @@
 [core]
-    remote = localremote
+    remote = localstorage
 ['remote "localremote"']
     url = ../data/processed
+['remote "localstorage"']
+    url = ../../../DVC
