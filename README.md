@@ -19,7 +19,7 @@ This project is part of the 10 Academy Week 3 Challenge. The objective is to ana
 - **Claim Frequency** = % of policies with ≥1 claim
 - **Margin** = TotalPremium – TotalClaims
 
-## Completed Tasks
+
 
 ### EDA & Statistical Summary
 - Cleaned and preprocessed raw `.txt` data
